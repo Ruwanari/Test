@@ -3,4 +3,11 @@ abc
 jfjf
 jhkhkh
 jhhhsznfbdm
+<<<<<<< HEAD
 bbbbb
+=======
+jhfkjdbf
+>>>>>>> 
+
+
+HHHHHHH
